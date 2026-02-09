@@ -9,7 +9,9 @@ Proyecto de gestión para servicios de limpieza
 
 ## 📊 Estadísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlopezFl)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OLopezFl&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=dark&hide_border=true)
 
 ## 📫 Contacto
 
