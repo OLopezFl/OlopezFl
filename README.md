@@ -9,9 +9,9 @@ Proyecto de gestión para servicios de limpieza
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OLopezFl&show_icons=true&theme=tokyonight&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight)
 
 ## 📫 Contacto
 
