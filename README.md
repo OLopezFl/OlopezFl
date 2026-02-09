@@ -15,8 +15,6 @@ Proyecto de gestión para servicios de limpieza
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OLopezFl&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OLopezFl&theme=tokyonight)
-
 ## 📫 Contacto
 
 - GitHub: [@OLopezFl](https://github.com/OLopezFl)
