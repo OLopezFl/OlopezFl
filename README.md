@@ -11,9 +11,11 @@ Proyecto de gestión para servicios de limpieza
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight)
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OLopezFl&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/OLopezFl)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OLopezFl&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight)](https://github.com/OLopezFl)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OLopezFl&theme=tokyonight)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OLopezFl&theme=tokyonight)
 
 ## 📫 Contacto
 
